@@ -39,3 +39,4 @@ wheels/
 *.egg-info/
 .installed.cfg
 *.egg
+agents/planner/.adk/eval_history/planner_planner_eval_*.json

@@ -161,6 +161,430 @@
         "state": {}
       },
       "creation_timestamp": 1750478384.377376
+    },
+    {
+      "eval_id": "MTL",
+      "conversation": [
+        {
+          "invocation_id": "e-1f74d567-782f-45ed-b46a-c47a19935292",
+          "user_content": {
+            "parts": [
+              {
+                "video_metadata": null,
+                "thought": null,
+                "inline_data": null,
+                "file_data": null,
+                "thought_signature": null,
+                "code_execution_result": null,
+                "executable_code": null,
+                "function_call": null,
+                "function_response": null,
+                "text": "Search and plan something in Seattle for me this weekend"
+              }
+            ],
+            "role": "user"
+          },
+          "final_response": {
+            "parts": [
+              {
+                "video_metadata": null,
+                "thought": null,
+                "inline_data": null,
+                "file_data": null,
+                "thought_signature": null,
+                "code_execution_result": null,
+                "executable_code": null,
+                "function_call": null,
+                "function_response": null,
+                "text": "Okay, I can help you with that! First, I need to know the exact dates for \"this weekend\" so I can generate the most accurate plan with specific events. I also need to know your interests, so I can tailor the plan to your preferences.\n"
+              }
+            ],
+            "role": null
+          },
+          "intermediate_data": {
+            "tool_uses": [],
+            "intermediate_responses": []
+          },
+          "creation_timestamp": 1754180110.747063
+        },
+        {
+          "invocation_id": "e-b7b88f9e-e053-4db8-8935-942f84955c3b",
+          "user_content": {
+            "parts": [
+              {
+                "video_metadata": null,
+                "thought": null,
+                "inline_data": null,
+                "file_data": null,
+                "thought_signature": null,
+                "code_execution_result": null,
+                "executable_code": null,
+                "function_call": null,
+                "function_response": null,
+                "text": "August 3 2025"
+              }
+            ],
+            "role": "user"
+          },
+          "final_response": {
+            "parts": [
+              {
+                "video_metadata": null,
+                "thought": null,
+                "inline_data": null,
+                "file_data": null,
+                "thought_signature": null,
+                "code_execution_result": null,
+                "executable_code": null,
+                "function_call": null,
+                "function_response": null,
+                "text": "I am sorry, I need both the start and end date to create the plan.\n"
+              }
+            ],
+            "role": null
+          },
+          "intermediate_data": {
+            "tool_uses": [],
+            "intermediate_responses": []
+          },
+          "creation_timestamp": 1754180151.984761
+        },
+        {
+          "invocation_id": "e-ba9e77d6-a7ba-4cc4-a49b-c51079ec1d6b",
+          "user_content": {
+            "parts": [
+              {
+                "video_metadata": null,
+                "thought": null,
+                "inline_data": null,
+                "file_data": null,
+                "thought_signature": null,
+                "code_execution_result": null,
+                "executable_code": null,
+                "function_call": null,
+                "function_response": null,
+                "text": "within tomorrow"
+              }
+            ],
+            "role": "user"
+          },
+          "final_response": {
+            "parts": [
+              {
+                "video_metadata": null,
+                "thought": null,
+                "inline_data": null,
+                "file_data": null,
+                "thought_signature": null,
+                "code_execution_result": null,
+                "executable_code": null,
+                "function_call": null,
+                "function_response": null,
+                "text": "To confirm, you want a dating plan for the weekend of August 3rd, 2025, with the end date being August 4th, 2025, in Seattle, Washington. I still need to know your interests in order to tailor the plan to your preferences.\n"
+              }
+            ],
+            "role": null
+          },
+          "intermediate_data": {
+            "tool_uses": [],
+            "intermediate_responses": []
+          },
+          "creation_timestamp": 1754180164.143394
+        },
+        {
+          "invocation_id": "e-4794eb59-c5e9-4e1a-a356-0361d71cfa60",
+          "user_content": {
+            "parts": [
+              {
+                "video_metadata": null,
+                "thought": null,
+                "inline_data": null,
+                "file_data": null,
+                "thought_signature": null,
+                "code_execution_result": null,
+                "executable_code": null,
+                "function_call": null,
+                "function_response": null,
+                "text": "in Montreal, Quebec, please"
+              }
+            ],
+            "role": "user"
+          },
+          "final_response": {
+            "parts": [
+              {
+                "video_metadata": null,
+                "thought": null,
+                "inline_data": null,
+                "file_data": null,
+                "thought_signature": null,
+                "code_execution_result": null,
+                "executable_code": null,
+                "function_call": null,
+                "function_response": null,
+                "text": "Okay, I can create a dating plan for Montreal, Quebec, for August 3rd to August 4th, 2025. I still need to know your interests to tailor the plan. Please provide a list of interests (e.g., outdoors, arts & culture, foodie, nightlife, unique local events, live music, active/sports).\n"
+              }
+            ],
+            "role": null
+          },
+          "intermediate_data": {
+            "tool_uses": [],
+            "intermediate_responses": []
+          },
+          "creation_timestamp": 1754180195.770862
+        },
+        {
+          "invocation_id": "e-f11455f8-f143-4ec4-81b2-ffba4b651420",
+          "user_content": {
+            "parts": [
+              {
+                "video_metadata": null,
+                "thought": null,
+                "inline_data": null,
+                "file_data": null,
+                "thought_signature": null,
+                "code_execution_result": null,
+                "executable_code": null,
+                "function_call": null,
+                "function_response": null,
+                "text": "affordable, experience, music, art, culture"
+              }
+            ],
+            "role": "user"
+          },
+          "final_response": {
+            "parts": [
+              {
+                "video_metadata": null,
+                "thought": null,
+                "inline_data": null,
+                "file_data": null,
+                "thought_signature": null,
+                "code_execution_result": null,
+                "executable_code": null,
+                "function_call": null,
+                "function_response": null,
+                "text": "Okay, I will generate a dating plan for Montreal, Quebec, for August 3rd to August 4th, 2025, that focuses on affordability, experiences, music, art, and culture.\n\n"
+              },
+              {
+                "video_metadata": null,
+                "thought": null,
+                "inline_data": null,
+                "file_data": null,
+                "thought_signature": null,
+                "code_execution_result": null,
+                "executable_code": null,
+                "function_call": null,
+                "function_response": null,
+                "text": "Here's a plan for a date in Montreal on August 3rd and 4th, 2025, focusing on affordable experiences that incorporate music, art, and culture:\n\n**Day 1: Sunday, August 3rd - Art & Jazz**\n\n*   **Morning (11:00 AM):** Explore Affordable Art at Galerie Espace.\n    *   *Description:* Start your day browsing local and contemporary art at Galerie Espace. This gallery represents over 40 artists and offers a range of styles and prices, making it possible to find something that suits your budget.\n    *   *Latitude:* 45.5170\n    *   *Longitude:* -73.5578\n*   **Afternoon (2:00 PM):** Jazz Performance at Upstairs Jazz Bar & Grill.\n    *   *Description:* Enjoy a laid-back afternoon with live jazz at Upstairs Jazz Bar & Grill. This venue is known for its intimate setting and features local and international jazz musicians. Check their schedule for the day's performers.\n    *   *Latitude:* 45.4999\n    *   *Longitude:* -73.5777\n*   **Evening (6:00 PM):** Dinner at a BYOB Restaurant in Plateau Mont-Royal.\n    *   *Description:* Many restaurants in the Plateau Mont-Royal allow you to bring your own wine, making for an affordable and personalized dining experience. Check out places like \"La Prunelle\" for a cozy atmosphere and delicious food.\n    *   *Latitude:* 45.5220\n    *   *Longitude:* -73.5765 (approximate, for the general area)\n\n**Day 2: Monday, August 4th - Culture & Music**\n\n*   **Morning (10:00 AM):** Visit the Montreal Museum of Fine Arts.\n    *   *Description:* Immerse yourselves in art and culture at the Montreal Museum of Fine Arts. While there may be an entry fee for special exhibitions, the permanent collections often have free or reduced admission for certain days/times. Check their website for details.\n    *   *Latitude:* 45.4994\n    *   *Longitude:* -73.5783\n*   **Afternoon (1:00 PM):** Explore Saint-Laurent Boulevard Murals.\n    *   *Description:* Take a walk along Saint-Laurent Boulevard and admire the vibrant street art and murals. This is a free and visually stimulating way to experience Montreal's artistic side.\n    *   *Latitude:* 45.5164\n    *   *Longitude:* -73.5750 (approximate, for the general area)\n*   **Evening (6:00 PM):** Live Music at Casa del Popolo.\n    *   *Description:* Head to Casa del Popolo, a long-standing venue that hosts indie music and arts in the Plateau/Mile End area. It’s a vibrant and budget-friendly spot to discover local and international acts. The cafe-bar also offers affordable vegetarian options.\n    *   *Latitude:* 45.5256\n    *   *Longitude:* -73.5891\n\nThis plan balances art, music, and cultural experiences while keeping affordability in mind. Remember to check specific event schedules and opening hours for each location closer to the date.\n"
+              }
+            ],
+            "role": null
+          },
+          "intermediate_data": {
+            "tool_uses": [],
+            "intermediate_responses": []
+          },
+          "creation_timestamp": 1754180228.698301
+        },
+        {
+          "invocation_id": "e-e90d1519-b592-4ef4-a424-6d8713e6784f",
+          "user_content": {
+            "parts": [
+              {
+                "video_metadata": null,
+                "thought": null,
+                "inline_data": null,
+                "file_data": null,
+                "thought_signature": null,
+                "code_execution_result": null,
+                "executable_code": null,
+                "function_call": null,
+                "function_response": null,
+                "text": "halo"
+              }
+            ],
+            "role": "user"
+          },
+          "final_response": {
+            "parts": [
+              {
+                "video_metadata": null,
+                "thought": null,
+                "inline_data": null,
+                "file_data": null,
+                "thought_signature": null,
+                "code_execution_result": null,
+                "executable_code": null,
+                "function_call": null,
+                "function_response": null,
+                "text": "Halo! How can I assist you today? Do you have any new requests or further questions about the Montreal dating plan I provided?\n"
+              }
+            ],
+            "role": null
+          },
+          "intermediate_data": {
+            "tool_uses": [],
+            "intermediate_responses": []
+          },
+          "creation_timestamp": 1754180310.037046
+        },
+        {
+          "invocation_id": "e-efedbdc0-f34e-4527-88a2-63cca13fa958",
+          "user_content": {
+            "parts": [
+              {
+                "video_metadata": null,
+                "thought": null,
+                "inline_data": null,
+                "file_data": null,
+                "thought_signature": null,
+                "code_execution_result": null,
+                "executable_code": null,
+                "function_call": null,
+                "function_response": null,
+                "text": "Find me activities that are affordable, experience, music, art, culture tomorrow"
+              }
+            ],
+            "role": "user"
+          },
+          "final_response": {
+            "parts": [
+              {
+                "video_metadata": null,
+                "thought": null,
+                "inline_data": null,
+                "file_data": null,
+                "thought_signature": null,
+                "code_execution_result": null,
+                "executable_code": null,
+                "function_call": null,
+                "function_response": null,
+                "text": "Okay, I'll generate a plan for you for tomorrow, August 4th, 2025, that focuses on affordable experiences incorporating music, art, and culture. Since you're asking for activities for tomorrow, I will focus on options that are likely to be available on a Monday.\n\nHere's a plan for a date in Montreal on August 4th, 2025 (Monday), focusing on affordable experiences that incorporate music, art, and culture:\n\n*   **Morning (10:00 AM):** Visit the Montreal Museum of Fine Arts.\n    *   *Description:* Immerse yourselves in art and culture at the Montreal Museum of Fine Arts. While there may be an entry fee for special exhibitions, the permanent collections often have free or reduced admission for certain days/times. Check their website for details.\n    *   *Latitude:* 45.4994\n    *   *Longitude:* -73.5783\n*   **Afternoon (1:00 PM):** Explore Saint-Laurent Boulevard Murals.\n    *   *Description:* Take a walk along Saint-Laurent Boulevard and admire the vibrant street art and murals. This is a free and visually stimulating way to experience Montreal's artistic side.\n    *   *Latitude:* 45.5164\n    *   *Longitude:* -73.5750 (approximate, for the general area)\n*   **Evening (6:00 PM):** Live Music at Casa del Popolo.\n    *   *Description:* Head to Casa del Popolo, a long-standing venue that hosts indie music and arts in the Plateau/Mile End area. It’s a vibrant and budget-friendly spot to discover local and international acts. The cafe-bar also offers affordable vegetarian options.\n    *   *Latitude:* 45.5256\n    *   *Longitude:* -73.5891\n\nThis plan balances art, music, and cultural experiences while keeping affordability in mind. Remember to check specific event schedules and opening hours for each location closer to the date to confirm that the venues are open.\n"
+              }
+            ],
+            "role": null
+          },
+          "intermediate_data": {
+            "tool_uses": [],
+            "intermediate_responses": []
+          },
+          "creation_timestamp": 1754180338.809738
+        }
+      ],
+      "session_input": {
+        "app_name": "planner",
+        "user_id": "user",
+        "state": {}
+      },
+      "creation_timestamp": 1754181245.0776408
+    },
+    {
+      "eval_id": "MTL August 3rd",
+      "conversation": [
+        {
+          "invocation_id": "e-43485061-bccb-487f-a921-b6a844d770df",
+          "user_content": {
+            "parts": [
+              {
+                "video_metadata": null,
+                "thought": null,
+                "inline_data": null,
+                "file_data": null,
+                "thought_signature": null,
+                "code_execution_result": null,
+                "executable_code": null,
+                "function_call": null,
+                "function_response": null,
+                "text": "Activities in Montreal, Quebec on August 3rd 2025. I prefer the ones that are affordable, about culture, music, art"
+              }
+            ],
+            "role": "user"
+          },
+          "final_response": {
+            "parts": [
+              {
+                "video_metadata": null,
+                "thought": null,
+                "inline_data": null,
+                "file_data": null,
+                "thought_signature": null,
+                "code_execution_result": null,
+                "executable_code": null,
+                "function_call": null,
+                "function_response": null,
+                "text": "Okay, I will generate some dating plan suggestions for Montreal, Quebec on August 3rd, 2025, keeping in mind your interests in culture, music, and art, and aiming for a moderate budget.\n\n"
+              },
+              {
+                "video_metadata": null,
+                "thought": null,
+                "inline_data": null,
+                "file_data": null,
+                "thought_signature": null,
+                "code_execution_result": null,
+                "executable_code": null,
+                "function_call": null,
+                "function_response": null,
+                "text": "Here are a few dating plan suggestions for Montreal on August 3rd, 2025, focusing on culture, music, and art, with a moderate budget in mind:\n\n**Plan 1: Art, Music, and a Taste of Montreal**\n\n*   **Afternoon (2:00 PM):** Start with a visit to Galerie Bloom, a contemporary art gallery located in Old Montreal. They showcase a curated selection of contemporary Canadian artists. It's a great place to immerse yourselves in unique artistic treasures and spark conversation.\n\n    *   **Name:** Galerie Bloom\n    *   **Latitude:** 45.5032\n    *   **Longitude:** -73.5557\n    *   **Description:** Contemporary art gallery in Old Montreal showcasing Canadian artists.\n*   **Late Afternoon (4:00 PM):** Head over to Place des Arts. There will be a Tchaikovsky and Rachmaninov's Piano Concerto No. performance at the Maison symphonique.\n\n    *   **Name:** Maison symphonique\n    *   **Latitude:** 45.5087\n    *   **Longitude:** -73.5673\n    *   **Description:** Concert hall located in Place des Arts.\n*   **Evening (7:00 PM):** Enjoy dinner at a restaurant in Mile End known for its delicious and affordable gnocchi.\n\n    *   **Name:** Drogheria Fine\n    *   **Latitude:** 45.5264\n    *   **Longitude:** -73.5965\n    *   **Description:** A small counter serving impressive gnocchi with tomato sauce.\n\n**Plan 2: Highland Games & Old Montreal Charm**\n\n*   **Afternoon (12:00 PM):** Immerse yourselves in Scottish culture at the Montreal Highland Games. Experience classic Scottish traditions, athletics, music, and food.\n\n    *   **Name:** Montreal Highland Games\n    *   **Latitude:** (Specific location for 2025 not available, typically held at a park)\n    *   **Longitude:** (Specific location for 2025 not available, typically held at a park)\n    *   **Description:** A celebration of Scottish culture with athletics, music, and food.\n*   **Late Afternoon (4:00 PM):** Explore the historic charm of Old Montreal. Wander through cobblestone streets, admire the architecture, and soak in the atmosphere.\n    *   **Name:** Old Montreal\n    *   **Latitude:** 45.5032\n    *   **Longitude:** -73.5557\n    *   **Description:** Historic area with cobblestone streets, architecture, and boutiques.\n*   **Evening (7:00 PM):** Conclude your date with live music at one of Montreal's many music venues. Consider checking out La Sala Rossa, known for indie music.\n\n    *   **Name:** La Sala Rossa\n    *   **Latitude:** 45.5223\n    *   **Longitude:** -73.5792\n    *   **Description:** A tapas bar and music venue known for indie scene.\n"
+              }
+            ],
+            "role": null
+          },
+          "intermediate_data": {
+            "tool_uses": [],
+            "intermediate_responses": []
+          },
+          "creation_timestamp": 1754181572.795702
+        },
+        {
+          "invocation_id": "e-af140627-5dcc-4cc3-8340-f9963009d826",
+          "user_content": {
+            "parts": [
+              {
+                "video_metadata": null,
+                "thought": null,
+                "inline_data": null,
+                "file_data": null,
+                "thought_signature": null,
+                "code_execution_result": null,
+                "executable_code": null,
+                "function_call": null,
+                "function_response": null,
+                "text": "Please repeat the plan."
+              }
+            ],
+            "role": "user"
+          },
+          "final_response": {
+            "parts": [
+              {
+                "video_metadata": null,
+                "thought": null,
+                "inline_data": null,
+                "file_data": null,
+                "thought_signature": null,
+                "code_execution_result": null,
+                "executable_code": null,
+                "function_call": null,
+                "function_response": null,
+                "text": "Okay, here are the dating plan suggestions for Montreal on August 3rd, 2025 again, focusing on culture, music, and art, and aiming for a moderate budget:\n\n**Plan 1: Art, Music, and a Taste of Montreal**\n\n*   **Afternoon (2:00 PM):** Begin with a visit to Galerie Bloom, a contemporary art gallery situated in Old Montreal. Discover unique artistic treasures by Canadian artists and spark conversation.\n\n    *   **Name:** Galerie Bloom\n    *   **Latitude:** 45.5032\n    *   **Longitude:** -73.5557\n    *   **Description:** Contemporary art gallery in Old Montreal showcasing Canadian artists.\n*   **Late Afternoon (4:00 PM):** Attend a performance at the Maison symphonique at Place des Arts.\n\n    *   **Name:** Maison symphonique\n    *   **Latitude:** 45.5087\n    *   **Longitude:** -73.5673\n    *   **Description:** Concert hall located in Place des Arts.\n*   **Evening (7:00 PM):** Enjoy dinner at a restaurant in Mile End known for its gnocchi.\n\n    *   **Name:** Drogheria Fine\n    *   **Latitude:** 45.5264\n    *   **Longitude:** -73.5965\n    *   **Description:** A small counter serving impressive gnocchi with tomato sauce.\n\n**Plan 2: Highland Games & Old Montreal Charm**\n\n*   **Afternoon (12:00 PM):** Immerse yourselves in Scottish culture at the Montreal Highland Games. Experience classic Scottish traditions, athletics, music, and food.\n\n    *   **Name:** Montreal Highland Games\n    *   **Latitude:** (Specific location for 2025 not available, typically held at a park)\n    *   **Longitude:** (Specific location for 2025 not available, typically held at a park)\n    *   **Description:** A celebration of Scottish culture with athletics, music, and food.\n*   **Late Afternoon (4:00 PM):** Explore the historic charm of Old Montreal. Wander through cobblestone streets and admire the architecture.\n    *   **Name:** Old Montreal\n    *   **Latitude:** 45.5032\n    *   **Longitude:** -73.5557\n    *   **Description:** Historic area with cobblestone streets, architecture, and boutiques.\n*   **Evening (7:00 PM):** Conclude your date with live music at one of Montreal's music venues. Consider checking out La Sala Rossa, known for indie music.\n\n    *   **Name:** La Sala Rossa\n    *   **Latitude:** 45.5223\n    *   **Longitude:** -73.5792\n    *   **Description:** A tapas bar and music venue known for indie scene.\n"
+              }
+            ],
+            "role": null
+          },
+          "intermediate_data": {
+            "tool_uses": [],
+            "intermediate_responses": []
+          },
+          "creation_timestamp": 1754181604.0586
+        }
+      ],
+      "session_input": {
+        "app_name": "planner",
+        "user_id": "user",
+        "state": {}
+      },
+      "creation_timestamp": 1754181733.6845195
     }
   ],
   "creation_timestamp": 1750478224.7986963
